@@ -63,6 +63,25 @@ This is a simple bot for discord to `get-to-know` how a discord bot works. Follo
 
     ![Copy Token](./assets/copy-token.png?raw=true "Copy Token")
 
+- Create a project folder and open it in any text editor.
+- Create a python virtual environment.
+
+```bash
+python3 -m venv venv
+```
+
+- Activate the virtual environment.
+
+```bash
+source venv/bin/activate
+```
+
+- Install the requirements.
+
+```bash
+pip install -r requirements.txt
+```
+
 ## References
 
 [Indently](https://youtu.be/hoDLj0IzZMU)
