@@ -19,11 +19,11 @@ def runBot():
     client = discord.Client(intents=discord.Intents.all())
 
     @client.event
-    async def onReady():
+    async def on_ready():
         print(f'[+] {client.user} is now running!')
 
     @client.event
-    async def onMessage(message):
+    async def on_message(message):
         if message.author == client.user:
             return
 
