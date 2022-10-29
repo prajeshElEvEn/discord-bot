@@ -4,6 +4,7 @@ aiosignal==1.2.0
 angles==1.9.13
 async-timeout==4.0.2
 attrs==22.1.0
+autopep8==2.0.0
 bondpy==1.8.6
 camera-calibration==1.16.0
 camera-calibration-parsers==1.12.0
@@ -34,6 +35,8 @@ joint-state-publisher-gui==1.15.1
 laser-geometry==1.6.7
 message-filters==1.15.14
 multidict==6.0.2
+pycodestyle==2.9.1
+python-dotenv==0.21.0
 python-qt-binding==0.4.4
 qt-dotgraph==0.4.2
 qt-gui==0.4.2
@@ -103,6 +106,7 @@ tf2-geometry-msgs==0.7.5
 tf2-kdl==0.7.5
 tf2-py==0.7.5
 tf2-ros==0.7.5
+tomli==2.0.1
 topic-tools==1.15.14
 xacro==1.14.13
 yarl==1.8.1
