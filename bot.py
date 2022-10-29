@@ -31,7 +31,7 @@ def runBot():
         userMessage = str(message.content)
         channel = str(message.channel)
 
-        print(f'[{username}]: {userMessage} [{channel}]')
+        # print(f'[{username}]: {userMessage} [{channel}]')
 
         if userMessage.startswith('?'):
             userMessage = userMessage[1:]
