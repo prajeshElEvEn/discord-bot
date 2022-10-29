@@ -43,6 +43,14 @@ This is a simple bot for discord to `get-to-know` how a discord bot works. Follo
 
     ![URL Permissions](./assets/url-permissions.png?raw=true "URL Permissions")
 
+- Next, goto `Bot` tab and click on `Add Bot` button.
+
+    ![Add Bot](./assets/add-bot.png?raw=true "Add Bot")
+
+- Now, click on `Yes, do it!` button to add the bot.
+
+    ![Confirm](./assets/confirm.png?raw=true "Confirm")
+
 ## References
 
 [Indently](https://youtu.be/hoDLj0IzZMU)
