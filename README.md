@@ -93,9 +93,24 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
+- Create a file named `.env` and add following line with your token you copied earlier in the place of `<your-token`.
+
+```bash
+TOKEN=<your-token>
+```
+
+- Paste the URL you copied earlier in the browser and add the bot to your desired server.
+
+- Run the script.
+
+```bash
+python main.py
+```
+
 ## References
 
 [Indently](https://youtu.be/hoDLj0IzZMU)
+[Code with Swastik](https://youtu.be/WphJ67r311s)
 
 ## Author
 
