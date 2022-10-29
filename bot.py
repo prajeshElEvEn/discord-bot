@@ -22,4 +22,21 @@ def runBot():
     async def onReady():
         print(f'[+] {client.user} is now running!')
 
+    @client.event
+    async def onMessage(message):
+        if message.author == client.user:
+            return
+
+        username = str(message.author).split('#')[0]
+        userMessage = str(message.content)
+        channel = str(message.channel)
+
+        print(f'[{username}]: {userMessage} [{channel}]')
+
+        if userMessage.startswith('?'):
+            userMessage = userMessage[1:]
+            await sendMessage(message, userMessage, isPrivate=True)
+        else:
+            await sendMessage(message, userMessage, isPrivate=False)
+
     client.run(TOKEN)
