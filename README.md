@@ -63,7 +63,18 @@ This is a simple bot for discord to `get-to-know` how a discord bot works. Follo
 
     ![Copy Token](./assets/copy-token.png?raw=true "Copy Token")
 
-- Create a project folder and open it in any text editor.
+- Clone this repository.
+
+```bash
+git clone https://github.com/prajeshElEvEn/discord-bot.git
+```
+
+- Navigate to the project directory.
+
+```bash
+cd discord-bot
+```
+
 - Create a python virtual environment.
 
 ```bash
