@@ -39,7 +39,7 @@ This is a simple bot for discord to `get-to-know` how a discord bot works. Follo
 
     ![Scope](./assets/url-scope.png?raw=true "Scope")
 
-- Reselect all the permissions under `Bot Permissions` section and click on `Copy` button to copy the authorization URL under the `Generated URL` section.
+- Reselect all the permissions under `Bot Permissions` section and click on `Copy` button to copy the authorization URL under the `Generated URL` section and save it somewhere safe.
 
     ![URL Permissions](./assets/url-permissions.png?raw=true "URL Permissions")
 
@@ -50,6 +50,18 @@ This is a simple bot for discord to `get-to-know` how a discord bot works. Follo
 - Now, click on `Yes, do it!` button to add the bot.
 
     ![Confirm](./assets/confirm.png?raw=true "Confirm")
+
+- Click on `Reset Token` button to reset the token.
+
+    ![Reset Token](./assets/reset-token.png?raw=true "Reset Token")
+
+- Confirm by clicking on `Yes, do it!` button.
+
+    ![Confirm Token](./assets/confirm-token.png?raw=true "Confirm Token")
+
+- Copy the token and save it somewhere safe.
+
+    ![Copy Token](./assets/copy-token.png?raw=true "Copy Token")
 
 ## References
 
