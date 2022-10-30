@@ -4,6 +4,9 @@ This is a simple bot for discord to `get-to-know` how a discord bot works. Follo
 
 ## Resources
 
+- [Discord Developer Portal](https://discord.com/developers/applications)
+- [discord.py](https://discordpy.readthedocs.io/en/stable/)
+
 ## Pre-requisites
 
 - You must have an [discord](https://discord.com/) account.
