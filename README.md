@@ -1,5 +1,9 @@
 # Discord Bot
 
+![Python Version](<https://img.shields.io/badge/Python-v3.8.10-%233776AB?style=flat&logo=python>)
+![Ubuntu Version](<https://img.shields.io/badge/Ubuntu-v20.04-%23E95420?style=flat&logo=ubuntu>)
+![Discord Version](<https://img.shields.io/badge/Discord-v5.15-%235865F2?style=flat&logo=discord>)
+
 This is a simple bot for discord to `get-to-know` how a discord bot works. Follow along to make your own discord bot easily.
 
 ## Resources
