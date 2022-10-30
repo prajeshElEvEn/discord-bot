@@ -107,7 +107,7 @@ TOKEN=<your-token>
 - Now, run the script.
 
 ```bash
-python main.py
+python3 main.py
 ```
 
 ## References
