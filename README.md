@@ -104,7 +104,7 @@ TOKEN=<your-token>
 
 - Paste the URL you copied earlier in the browser and add the bot to your desired server.
 
-- Run the script.
+- Now, run the script.
 
 ```bash
 python main.py
@@ -117,4 +117,4 @@ python main.py
 
 ## Author
 
-[@prajesh](https://github.com/prajeshElEvEn)
+[@prajesh](https://bit.ly/ElEvEnCo)
